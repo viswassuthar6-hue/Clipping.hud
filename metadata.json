@@ -1,0 +1,6 @@
+{
+  "name": "ViralClip Studio",
+  "description": "AI-powered video clipping platform that detects viral moments, generates titles, hooks, and dynamic captions, reframes aspect ratios, and creates high-engagement short clips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
